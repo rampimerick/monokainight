@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rampimerick.monokainight.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rampimerick.monokainight.MyBundle
 
 class MyApplicationService {
 
