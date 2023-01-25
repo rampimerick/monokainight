@@ -1,1 +1,1 @@
-rootProject.name = "monokainight"
+rootProject.name = "monarcula"
